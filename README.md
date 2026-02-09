@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
   <img src="https://img.icons8.com/color/96/python.png"/>
-  <img src="https://img.icons8.com/color/96/face-recognition.png"/>
+  <img src="https://img.icons8.com/color/96/customer-insight.png"/>
   <img src="https://img.icons8.com/color/96/combo-chart--v1.png"/>
 </p>
 
